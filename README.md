@@ -20,7 +20,7 @@ The experiment took almost 30 minutes, then the status changed to **Completed**.
 
 In Experiment section
 
-![exp-copm](completed-in-exp-section.PNG)
+![exp-copm](images/completed-in-exp-section.PNG)
 
 In AutoML section
 
