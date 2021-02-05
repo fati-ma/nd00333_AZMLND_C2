@@ -18,6 +18,11 @@ In this project, I worked on the Bank Marketing dataset using Azure ML studio, w
 2- Configured a compute cluster(VM Size: Standard_DS2_V2, number of minimum nodes = 1, number of maximum nodes = 4, Exit criterion = 1, Concurrency = 5) then ran the experiment using *classification*.
 The experiment took almost 30 minutes, then the status changed to **Completed**.
 
+In Experiment section
+
+![exp-copm](completed-in-exp-section.PNG)
+
+In AutoML section
 
 ![run-completed](images/automl-exp-completed.PNG)
 
