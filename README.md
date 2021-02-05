@@ -152,7 +152,7 @@ You can see the pipeline runs
 
 ## Screen Recording
 
-This is the [screen record](https://drive.google.com/file/d/1HtMxSrD0viGXShNBoAexjr8OOINj7iR7/view?usp=sharing) of the project
+This is the [screen record](https://drive.google.com/file/d/1JWGGI-541ImNQLhAPPA0re0mP_PkOqg8/view?usp=sharing) of the project
 
 ## Standout Suggestions
 
