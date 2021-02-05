@@ -22,6 +22,10 @@ In Experiment section
 
 ![exp-copm](images/completed-in-exp-section.PNG)
 
+![exp-copm](images/run-exp-comp.PNG)
+
+![exp-copm](images/exp-run-completed.PNG)
+
 In AutoML section
 
 ![run-completed](images/automl-exp-completed.PNG)
