@@ -97,7 +97,8 @@ You can see the pipeline runs
 
 ![pipeline-endpoint](images/pipeline-endpoint.PNG)
 
-12- Here you can see the pipeline graph that shows the Bank Marketing dataset
+12- In the image below you can see the pipeline graph that shows the Bank Marketing dataset
+
 13- After the pipeline is **published** we can see the **Published Pipeline Overview** where the status is *Active* and we have the *REST endpoints*
 
 ![pipeline-graph](images/pipeline-endpoint-graph.PNG)
